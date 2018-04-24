@@ -1,0 +1,11 @@
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\bin\Debug\netcoreapp2.0\SeleniumParcialTres.deps.json
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\bin\Debug\netcoreapp2.0\SeleniumParcialTres.runtimeconfig.json
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\bin\Debug\netcoreapp2.0\SeleniumParcialTres.runtimeconfig.dev.json
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\bin\Debug\netcoreapp2.0\SeleniumParcialTres.dll
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\obj\Debug\netcoreapp2.0\SeleniumParcialTres.csprojResolveAssemblyReference.cache
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\obj\Debug\netcoreapp2.0\SeleniumParcialTres.csproj.CoreCompileInputs.cache
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\obj\Debug\netcoreapp2.0\SeleniumParcialTres.AssemblyInfoInputs.cache
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\obj\Debug\netcoreapp2.0\SeleniumParcialTres.AssemblyInfo.cs
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\bin\Debug\netcoreapp2.0\SeleniumParcialTres.pdb
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\obj\Debug\netcoreapp2.0\SeleniumParcialTres.dll
+C:\Users\exe_6\Desktop\Zeroexe\ProyectosVS\SeleniumParcialTres\SeleniumParcialTres\obj\Debug\netcoreapp2.0\SeleniumParcialTres.pdb
